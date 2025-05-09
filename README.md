@@ -1,6 +1,5 @@
 # Skin Lesion Classification Using Deep Learning
 
-**Author:** Sameer Shaik  
 **Challenge:** [ISIC 2017 Skin Lesion Analysis](https://challenge.isic-archive.com/landing/2017/44/)
 
 ---
